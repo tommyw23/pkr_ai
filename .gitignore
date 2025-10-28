@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+.idea/
+.vscode/
+*.sqlite3
+*.db
+*.log
+# Ignore captured screenshots
+screenshot_*.png
+# OS files
+Thumbs.db
+.DS_Store
+
+# OneDrive temp
+~$*
